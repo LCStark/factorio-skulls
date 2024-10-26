@@ -1,0 +1,9 @@
+{
+  "name": "skulls",
+  "version": "0.1.0",
+  "title": "Skulls",
+  "author": "LCStark",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "? space-exploration >= 0.6.113"],
+  "description": "Killed characters leave behind their skulls."
+}
